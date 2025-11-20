@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Iniciante`**
 
-Me chamo Danilo dos Santos Sampaio Gonçalves, tenho 21 anos, sou natural de São Paulo. Concluí o ensino médio no IFSP - Campus Suzano integrado ao curso técnico de automação industrial. Atualmente, estou cursando Ciência da Computação na Universidade Estadual Paulista Júlio de Mesquita Filho(UNESP) de Rio Claro.
+Me chamo Danilo dos Santos Sampaio Gonçalves, tenho 21 anos, sou natural da cidade de Suzano, no estado de São Paulo. Concluí o ensino médio no IFSP - Campus Suzano integrado ao curso técnico de automação industrial. Atualmente, estou cursando Ciência da Computação na Universidade Estadual Paulista Júlio de Mesquita Filho(UNESP) de Rio Claro.
 
 ### 🤖 Linguagens e Tecnologias
 
